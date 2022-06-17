@@ -1,0 +1,61 @@
+<head>
+
+
+    <style>
+        img{ height:50%;
+            width: 40%;
+            padding:50%
+           
+        }
+
+  body {
+
+    background-color: black;
+  }
+}
+a{
+border: medium; color: rgb(247, 20, 133) ;
+
+} 
+
+h1{
+    color: gold; text-align: center; font-size: 100px;
+}
+p1{
+
+    color: red ; font-size: 25;
+    
+}
+h2{
+    color: gold;
+}
+
+body{
+
+    background-color: black;
+}
+        hr{
+            color: red;
+        }
+
+p{ color:red;  text-align: right;text-align: left; font-size: 25px;
+   
+}
+
+    font-size: large;
+
+
+}
+
+    </style>
+
+    <link rel="shortcut icon" href="bd.jpg" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BANGLADESH</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+
